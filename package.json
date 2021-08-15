@@ -1,0 +1,19 @@
+{
+  "name": "winter-collection",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "astro dev",
+    "build": "astro build"
+  },
+  "devDependencies": {
+    "astro": "^0.18.8",
+    "@astrojs/renderer-react": "^0.2.0"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.4.5",
+    "graphql": "^15.5.1",
+    "gsap": "^3.7.1",
+    "react-is": "^17.0.2"
+  }
+}

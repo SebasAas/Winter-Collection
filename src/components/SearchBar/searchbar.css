@@ -1,0 +1,27 @@
+.searchbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: relative;
+}
+
+.search-icon {
+    padding-right: 8px;
+    padding-top: 6px;
+    position: absolute;
+}
+
+.search-icon > svg {
+    height: 20px;
+}
+
+.searchbox {
+    border: none;
+    outline: 0;
+    height: 40px;
+    width: 40px;
+    border: 1px solid transparent;
+    border-radius: 30px;
+    outline-offset: 0px;
+    outline: none;
+}
