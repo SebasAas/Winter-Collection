@@ -1,7 +1,7 @@
-# FASHION 💅 COMMERCE
+# WINTER ❄️ COMMERCE
 
 ### Preview
-![Preview]()
+![Preview](src/assets/image/preview.gif)
 
 ## Getting Started
 Single Page - Multi Step Image
