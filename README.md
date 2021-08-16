@@ -29,3 +29,4 @@ URL Live Site
 * [REACT](https://reactjs.org/) - Builder
 * [SASS](https://sass-lang.com/) - Styles
 * [GSAP](https://greensock.com/gsap/) - Animations
+* [HASURA](https://hasura.io/) - GraphQL API
