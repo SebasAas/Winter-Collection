@@ -30,4 +30,4 @@ URL Live Site
 * [REACT](https://reactjs.org/) - Library UI
 * [SASS](https://sass-lang.com/) - Styles
 * [GSAP](https://greensock.com/gsap/) - Animations
-* [HASURA](https://hasura.io/) - GraphQL API
+* [HASURA](https://hasura.io/) - GraphQL API 
